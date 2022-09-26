@@ -1,1 +1,0 @@
-# verkefni6.md
