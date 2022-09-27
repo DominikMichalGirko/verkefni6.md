@@ -64,7 +64,7 @@
 **svar**
 ## List the short name of four services that are available in the Customize Service Settnigs window.
 **svar**
-## List four of the Specific ICMP types.
+## List four of the Specific ICMP types. 
 **svar**
 ## What are some possible reasons you may need to make firewall changes?
 **svar**
