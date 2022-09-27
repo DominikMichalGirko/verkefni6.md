@@ -30,23 +30,42 @@
 ## Were you able to navigate to www.cisco.com? Explain.
 **svar** ja 
 ## With the group ITEStaff highlighted, what can the members do in this folder?
-**svar**
+**svar** ITEStaff  list folder contents, and read permissions,, read ând execute.
 ## Which additional checkbox would you select?
-**svar**
+**svar** write 
 ## Were you successful? Explain.
-**svar**
+**svar** ja 
 ## Were you successful? Explain.
-**svar**
+**svar** ja 
 ## Navigate to C:\. Can you place a text file in the Staff folder? Can you modify the text file in folder Student02? Explain.
-**svar**
+**svar** ja
 ## Are you able to access the content in the Student01 and Student02 folders? Explain.
-**svar**
+**svar** no permission 
 ## Were you able to access the content in the folders Staff, Student\Student01 and Student\Student02?
-Explain.
-**svar**
+**svar** no 
 ## Can you log on as Staff02? Explain.
-**svar**
+**svar** no
 ## How would you give administrative privileges on the local computer to all the members of ITEStaff?
-**svar**
+**svar** Control Panel > Admin Tools, Computer Managmeent. sett  þa i group og gefið þeim admin priv i gegnum það
 ## How would you deny access to a file for everyone except the owner?
+**svar** Control Panel > Admin Tools, Computer Managmeent, full control deny 
+# 13.3.4.6 Lab - Configure Windows Firewall
+## Under PC-1, are you able to see the shared folder Cisco?
 **svar**
+## What are the benefits of Windows Firewall?
+**svar**
+## Describe a negative consequence of having too many exceptions.
+**svar**
+## Can you connect to PC-1 and view the Cisco shared folder?
+**svar**
+## Did you receive an error message on PC-2? If so, what was the Error message?
+**svar**
+## Can you connect to computer 1? Explain.
+**svar**
+## List the short name of four services that are available in the Customize Service Settnigs window.
+**svar**
+## List four of the Specific ICMP types.
+**svar**
+## What are some possible reasons you may need to make firewall changes?
+**svar**
+
