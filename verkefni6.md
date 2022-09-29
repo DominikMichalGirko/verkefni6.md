@@ -51,11 +51,11 @@
 **svar** Control Panel > Admin Tools, Computer Managmeent, full control deny 
 # 13.3.4.6 Lab - Configure Windows Firewall
 ## Under PC-1, are you able to see the shared folder Cisco?
-**svar**
+**svar** ja
 ## What are the benefits of Windows Firewall?
-**svar**
+**svar** Windows Firewall turns on by himself and it giving us security protaction for our hard drives.
 ## Describe a negative consequence of having too many exceptions.
-**svar**
+**svar** 
 ## Can you connect to PC-1 and view the Cisco shared folder?
 **svar**
 ## Did you receive an error message on PC-2? If so, what was the Error message?
@@ -63,9 +63,9 @@
 ## Can you connect to computer 1? Explain.
 **svar**
 ## List the short name of four services that are available in the Customize Service Settnigs window.
-**svar**
+**svar** 
 ## List four of the Specific ICMP types. 
-**svar**
+**svar** Source Quench, Redirect, Destination Unreachable, Echo.
 ## What are some possible reasons you may need to make firewall changes?
-**svar**
+**svar** Sometimes we need to required firewall changes to allow some apps to function correctly
 
